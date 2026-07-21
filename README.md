@@ -7,7 +7,7 @@
 - strip()
 - isdigit()
 - isalpha()
-
+ 
 ## 📂 Programs Included
 
 - Startswith Method

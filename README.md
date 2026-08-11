@@ -4,7 +4,7 @@
 
 - startswith()
 - endswith()
-- strip()
+- strip() 
 - isdigit()
 - isalpha()
  

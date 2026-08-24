@@ -9,7 +9,7 @@
 - isalpha()
   
 ## 📂 Programs Included
-
+ 
 - Startswith Method
 - Endswith Method
 - Strip Method

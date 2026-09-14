@@ -5,7 +5,7 @@
 - startswith()
 - endswith()
 - strip() 
-- isdigit()
+- isdigit() 
 - isalpha() 
   
 ## 📂 Programs Included 

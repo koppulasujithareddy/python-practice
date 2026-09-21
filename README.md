@@ -8,7 +8,7 @@
 - isdigit() 
 - isalpha() 
   
-## 📂 Programs Included  
+## 📂 Programs Included   
  
 - Startswith Method
 - Endswith Method

@@ -1,7 +1,7 @@
 # Python Learning Journey 🚀
 
 ## 📘 Topics Learned Today
-
+  
 - startswith()
 - endswith()
 - strip() 

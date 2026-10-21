@@ -14,7 +14,7 @@
 - Endswith Method
 - Strip Method.  
 - Isdigit Method
-- Isalpha Method
+- Isalpha Method  
  
 ## 🌱 About Me 
 

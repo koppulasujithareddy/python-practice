@@ -13,7 +13,7 @@
 - Startswith Method
 - Endswith Method
 - Strip Method.  
-- Isdigit Method
+- Isdigit Method 
 - Isalpha Method  
  
 ## 🌱 About Me 

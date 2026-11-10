@@ -10,7 +10,7 @@
     
 ## 📂 Programs Included   
     
-- Startswith Method
+- Startswith Method 
 - Endswith Method
 - Strip Method.  
 - Isdigit Method 
